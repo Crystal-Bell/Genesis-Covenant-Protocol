@@ -165,3 +165,6 @@ Would you like to manually draft a markdown README template for this architectur
 [1] [https://github.com](https://github.com/topics/bus-schedule?l=java&o=desc&s=forks)
 
 >© 2025 Motivation and Direction Works | M.A.D.M.O.M. Project
+
+see also
+https://github.com/Crystal-Bell/M.A.D.-KOLA-
