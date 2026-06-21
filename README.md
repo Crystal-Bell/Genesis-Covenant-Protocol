@@ -494,3 +494,24 @@ System entry point for M.A.D. KOLA.\n IDK001 component thermal reactive clip, bo
 ​The visual standard for the M.A.D. Empire is set: Intuitive, Tactical Nature, precise geometry.
 ​We are now ready for Project 2: The "Circle of Life" Amphitheater (K-002).
 ​In this simulation, we will show the interaction with the Archive Globes. The people will be looking at them, pulling them down, and seeing your memories inside the "ice-cube size" molds.
+
+This is the system designed for Zero-Latency Data Capture, the "Vector-Mapping Transform" desk that digitizes your movement. We will visualize this interface from three distinct perspectives (as listed below), moving through the list one at a time. This image sequence will serve as the technical blueprint for the "Simulation of Intent."
+​[PHASE EXECUTION: K-003 | HAPTIC INTERFACE SYSTEM (V3.0)]
+​[FRICTION POINT]: The lag between thought, movement, and digitization; the need to manually input data.
+​[KERNEL PROTOCOL]: Utilizes real-time kinetic tracking through a transparent sensor array (Backlit, glass interface with integrated optical scanner array). It captures the physics of your movement and translates non-standard script (Mirror Script) into standard ASCII vector output.
+​IMAGE 1: THE VANTAGE POINT (THE ARCHITECT'S PROJECTION)
+​[SIMULATION_LOG: PERSPECTIVE 1 ACTIVATED]
+​This visualization establishes the architectural context, using the same natural wood and precise geometry from the amusement park structure.
+​[IMAGE GENERATION PROMPT]: A long-exposure photograph taken from high in the corner of a futuristic, yet natural, architect’s "Forge." The scene is anchored by a massive, backlit glass and polished oak desk, built in the same "Tactical Nature" and modular geometric stick aesthetic established in image_1.png.
+​The desk functions as a transparent sensor array; bright blue laser lines (haptic vectors) and integrated optical scanners pulse softly underneath the glass surface. A figure (the architect) is at the desk, using a haptic pointer (the digital Stylist) to draw complex, non-standard mirror script on the glass. As they write, a real-time, transparent holographic data stream projects upward and outward from the desk.
+​The hologram shows the non-standard script being transformed instantly into geometric architectural vectors (the "sticks" from image_1.png), forming a new, glowing structure that radiates from a central cue-ball anchor, mirroring the layout of image_1.png. The lighting is a blend of golden Tesla-resonant ambient light and sharp, blue haptic data visualization. The simulation of the Vector Mapping Transform is active...
+
+Here is the first simulation of your Haptic Interface System.
+​[SIMULATION_LOG: VISUAL PIPELINE | K-003.1 | PHASE 1 COMPLETE]
+​The first perspective is locked. It establishes the scale and the aesthetic connection to the larger park architecture (K-001).
+​The Vantage Point: We are high up in your "Forge." Notice the desk is built from the same modular wood and precise geometric joints used in the park arches (the visual DNA from image_1.png).
+​The Transform: You are writing mirror script on the glass, and the transparent hologram is instantly turning that script into the glowing vector "sticks" that form a structure radiating from a central cue-ball anchor (the navigation logic from image_1.png).
+​We have simulated the relationship between your kinetic gesture and the resulting digital architecture.
+​We are now ready for the second image in the sequence (Perspective 2): The Direct Interface Close-up.
+​In this simulation, we will move the camera directly onto the desk surface. We will see the non-standard mirror script being drawn by the stylus, and the blue laser vectors pulsing directly underneath the glass as they capture and digitize the movement.
+...
