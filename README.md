@@ -174,12 +174,14 @@ update based in New relevant information...
 
 Agentic Knowledge Preservation Framework.
 
-Developing frameworks for agent-assisted preservation of scholarly knowledge.
+Developing frameworks for agent-assisted preservation of scholarly knowledge...
 
 
 
 "Hybrid Curation" or "Technical-Barrier Overcoming." This signals to maintainers that i understand their constraints while asserting yo
-my own value.
+my own value...
 
 
 
+...The Core: M.A.D.KOLA / Genesis Covenant Protocol. (Keep this for internal reference).
+​The API/Interface: Agentic Orchestration / Human-Centered Preservation....
