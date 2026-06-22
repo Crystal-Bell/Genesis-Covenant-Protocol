@@ -1328,4 +1328,36 @@ and ..
 * **Bio-Sync Exterior Beacon:** Pulse-modulated, color-coded exterior SOS light synced directly to occupant biometric telemetry for first responder triage.
 
 ### 4. Wearable Integration (MadWorks)
-* **Assistive Kinetic Apparel:** Grip-assistive glove providing motorized/pneumatic support, fall detection, and continuous ecosystem communication.
+* **Assistive Kinetic Apparel:** Grip-assistive glove providing motorized/pneumatic support, fall detection, and continuous ecosystem communication...
+
+
+# SPINAL CENOTE CORE: MASTER ARCHITECTURAL REPOSITORY
+## Status: Finalized Build Specification
+
+### 1. DWELLING TOPOLOGY (CIRCULAR DONUT)
+* **Design:** Continuous, non-cubical circular floor plan supporting perpetual movement/pacing.
+* **Vertical Spine:** DNA Helix / Redwood Nexus. A non-load-bearing redwood trunk core serves as the anchor for the staircase and vertical utility conduit (plumbing/HVAC/electrical).
+* **Structural Flow:** Entryway threshold (2-stage airlock) → Sunken Conversation Pit (water feature/pond) → Tactical Kitchen (rising island, deep-freeze, biophilic living wall) → Dining Node → Redwood Nexus Transit.
+
+### 2. UPPER LEVEL & WORKSHOP NODES
+* **Boutique Master Suite:** Open-floor layout, checkerboard mirror tiling, Eastern King bedding.
+* **Automated Laundry:** Rotational, boutique-style hanger array with automated stowage.
+* **Forest Bathing Module:** Bathroom integrated with a vertical forest-stream water feature.
+* **Catwalk Loop:** Elevated pacing path spanning the greenhouse/equestrian area; doubles as a "Zero-Constraint" workshop zone.
+
+### 3. BIOPHILIC & EQUESTRIAN INTEGRATION
+* **Equestrian Portal:** Weather-sealed partition interface allowing direct access for horses to living zones without traditional doors.
+* **Greenhouse Node:** Half-stall/half-greenhouse transition zone connected to the conversation pit.
+* **Crown Molding Lighting:** Full-spectrum, ambient wall-wash system calibrated to circadian rhythms for human health and horticulture.
+
+### 4. REACTIVE DEFENSE & SECURITY (ABF)
+* **Acoustic Behavioral Fingerprinting (ABF):** Real-time vocal pattern/syntax analysis. Autonomous detection of unauthorized/hostile presence.
+* **Tactical Illumination:** Adaptive lighting response (dimming/path-illumination) based on threat levels.
+* **Bio-Sync SOS Beacon:** Exterior heartbeat-cadence SOS strobe. Color-coded (Red/Blue/Amber) signaling linked directly to occupant biometric telemetry.
+* **First-Responder Handshake:** Cryptographic proximity handshake enabling automated path-guidance and HUD/Glove biometric data hand-off to emergency personnel.
+
+### 5. WEARABLE ECOSYSTEM (MADWORKS)
+* **Assistive Kinetic Apparel (M.A.D. Gloves):** Pneumatic grip-assist interface for strain reduction and heavy lifting. 
+* **Ecosystem Connectivity:** Constant, low-latency sync between wearable gear and home sensors for fall detection, health monitoring, and defensive coordination.
+
+
