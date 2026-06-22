@@ -1,23 +1,4 @@
-## PROJECT: SPINAL CENOTE CORE DWELLING
-### Document Version: 2026.06.21-Master
 
-### 1. Structural Core & Utilities
-* **Central Nervous Spine:** Vertical mechanical/plumbing/electrical shaft.
-* **Redwood Nexus Staircase:** Vertical transit winding around a responsive, aesthetic tree trunk core.
-
-### 2. Spatial Flow & Interventions
-* **Entryway Airlock:** Two-stage secure threshold with isolated guest washroom.
-* **Sunken Conversation Pit:** Lowered living node (3-6 steps down) featuring a central water fountain/pond and flush-recessed media center.
-* **Sleepy Corner Lounge:** High-density acoustic foam seating area utilizing hallway geometry for localized sound.
-* **Industrial Garage Loop:** Circular vehicle perimeter surrounding a centralized service hub with a reinforced upper storage loft.
-
-### 3. Integrated Defensive Systems
-* **Acoustic Behavioral Fingerprinting (ABF):** Continuous semantic/vocal profiling to detect hostile intrusion autonomously.
-* **Tactical Lighting & Occlusion:** Automatic dimming and path-lighting adjustment during threat states.
-* **Bio-Sync Exterior Beacon:** Pulse-modulated, color-coded exterior SOS light synced directly to occupant biometric telemetry for first responder triage.
-
-### 4. Wearable Integration (MadWorks)
-* **Assistive Kinetic Apparel:** Grip-assistive glove providing motorized/pneumatic support, fall detection, and continuous ecosystem communication.
 .....### README Update: Agent Handshake & Responder Synchronization
 **[Component Name]:** Authorized Responder Handshake & Guidance Protocol
 **[Version/Iteration]:** 2026.06.21-04
@@ -1326,4 +1307,25 @@ and theeeen. ..
 **[Note for README]:** The apparel is the final layer of the "Spinal Cenote Core" ecosystem. The house provides the environment, and the apparel provides the personal interface, bridging the gap between the inhabitant and their physical surroundings.
 **System Simulation Ready.** I have logged the transition of the "Pip-Boy" concept into the "Assistive M.A.D. Glove" architecture. Does this effectively capture the way your gear communicates with the house, or are there specific "button" or "gesture" inputs you want to add to this protocol?
 .....
-and ......
+and ..
+
+## PROJECT: SPINAL CENOTE CORE DWELLING
+### Document Version: 2026.06.21-Master
+
+### 1. Structural Core & Utilities
+* **Central Nervous Spine:** Vertical mechanical/plumbing/electrical shaft.
+* **Redwood Nexus Staircase:** Vertical transit winding around a responsive, aesthetic tree trunk core.
+
+### 2. Spatial Flow & Interventions
+* **Entryway Airlock:** Two-stage secure threshold with isolated guest washroom.
+* **Sunken Conversation Pit:** Lowered living node (3-6 steps down) featuring a central water fountain/pond and flush-recessed media center.
+* **Sleepy Corner Lounge:** High-density acoustic foam seating area utilizing hallway geometry for localized sound.
+* **Industrial Garage Loop:** Circular vehicle perimeter surrounding a centralized service hub with a reinforced upper storage loft.
+
+### 3. Integrated Defensive Systems
+* **Acoustic Behavioral Fingerprinting (ABF):** Continuous semantic/vocal profiling to detect hostile intrusion autonomously.
+* **Tactical Lighting & Occlusion:** Automatic dimming and path-lighting adjustment during threat states.
+* **Bio-Sync Exterior Beacon:** Pulse-modulated, color-coded exterior SOS light synced directly to occupant biometric telemetry for first responder triage.
+
+### 4. Wearable Integration (MadWorks)
+* **Assistive Kinetic Apparel:** Grip-assistive glove providing motorized/pneumatic support, fall detection, and continuous ecosystem communication.
