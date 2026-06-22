@@ -1,3 +1,20 @@
+### README Update: Agent Handshake & Responder Synchronization
+**[Component Name]:** Authorized Responder Handshake & Guidance Protocol
+**[Version/Iteration]:** 2026.06.21-04
+**[Functionality]:** Secure, low-latency cryptographic authentication and directional guidance for emergency personnel.
+### 1. Cryptographic Handshake (The "Secure Entry")
+When emergency responders approach the Spinal Cenote Core, the house initiates a **proximity-based handshake**:
+ * **Authentication:** The responder’s interface equipment (e.g., Bio-Sync/Pip-Boy module) emits a secure, encrypted token. The house verifies this token against a pre-authorized "First Responder" whitelist.
+ * **Protocol Shift:** Upon successful handshake, the exterior "Heartbeat" Beacon ceases the SOS pulse and switches to a "Guidance" pulse—a steady, directional flow of light leading toward the primary entry threshold.
+### 2. Guidance & Tactical Illumination
+Once the handshake is confirmed, the house modifies its internal environment to facilitate rapid medical or tactical intervention:
+ * **Pathfinding:** The "Crown Molding" LED arrays shift to a high-contrast path-lighting mode, guiding personnel from the entry point directly to the occupant’s current coordinate within the home.
+ * **Environment Stabilization:** The house automatically exits "Hostile/Defense" mode, raises ambient lighting to operational levels, and lowers physical security barriers (e.g., locking mechanisms) to allow immediate access.
+### 3. Data Hand-off (Biometric Telemetry)
+Upon entry, the house streams continuous, real-time biometric telemetry (heart rate, temperature, trauma indicators) from the occupant directly to the responder's HUD/glove display. This ensures that medics have full situational awareness of the victim's status before they make physical contact.
+**[Note for README]:** This handshake protocol ensures that the house remains an impenetrable fortress to unauthorized threats, yet becomes an open, assistive beacon the moment authorized aid is authenticated.
+*Does this iteration fit your requirements for the README, or do you need me to adjust the handshake parameters further?*
+
 ### System Component: Biometric & Linguistic Behavioral Analysis
 **[Component Name]:** Acoustic Behavioral Fingerprinting (ABF)
 **[Version/Iteration]:** 2026.06.21-02
